@@ -156,7 +156,7 @@
     "reinforcementGroup": "SEOUL_NM_1ABN",
     "reinforcementTurn": 11,
     "reinforcementName": "第1空降特战旅行动部队",
-    "reinforcementDetail": "23:00历史事件窗口：第1空降特战旅部分兵力进入首尔行动。",
+    "reinforcementDetail": "23:00历史事件窗口：第1空降特战旅部分兵力进入汉城行动。",
     "entryPoint": {
       "q": 63,
       "r": 114
@@ -486,7 +486,7 @@
     "reinforcementGroup": "SEOUL_NM_1ABN",
     "reinforcementTurn": 11,
     "reinforcementName": "第1空降特战旅行动部队",
-    "reinforcementDetail": "23:00历史事件窗口：部分兵力进入首尔。",
+    "reinforcementDetail": "23:00历史事件窗口：部分兵力进入汉城。",
     "entryPoint": {
       "q": 63,
       "r": 114
@@ -527,7 +527,7 @@
     "reinforcementGroup": "SEOUL_NM_1ABN",
     "reinforcementTurn": 11,
     "reinforcementName": "第1空降特战旅行动部队",
-    "reinforcementDetail": "23:00历史事件窗口：部分兵力进入首尔。",
+    "reinforcementDetail": "23:00历史事件窗口：部分兵力进入汉城。",
     "entryPoint": {
       "q": 63,
       "r": 114
@@ -639,12 +639,12 @@
     "echelon": "battalion",
     "serviceNation": "大韩民国",
     "id": "NM_9DIV_DET_1",
-    "name": "第29联队首尔出动战斗群A",
-    "fullName": "第29联队首尔出动战斗群A",
+    "name": "第29联队汉城出动战斗群A",
+    "fullName": "第29联队汉城出动战斗群A",
     "q": 0,
     "r": 0,
     "commander": "李弼燮",
-    "parentFormation": "第9步兵师（白马）首尔出动部队",
+    "parentFormation": "第9步兵师（白马）汉城出动部队",
     "parent": "第9步兵师（白马）",
     "offMap": true,
     "reinforcementGroup": "SEOUL_NM_9DIV_DET",
@@ -680,12 +680,12 @@
     "echelon": "battalion",
     "serviceNation": "大韩民国",
     "id": "NM_9DIV_DET_2",
-    "name": "第29联队首尔出动战斗群B",
-    "fullName": "第29联队首尔出动战斗群B",
+    "name": "第29联队汉城出动战斗群B",
+    "fullName": "第29联队汉城出动战斗群B",
     "q": 0,
     "r": 0,
     "commander": "",
-    "parentFormation": "第9步兵师（白马）首尔出动部队",
+    "parentFormation": "第9步兵师（白马）汉城出动部队",
     "parent": "第9步兵师（白马）",
     "offMap": true,
     "reinforcementGroup": "SEOUL_NM_9DIV_DET",
@@ -726,7 +726,7 @@
     "q": 0,
     "r": 0,
     "commander": "",
-    "parentFormation": "第9步兵师（白马）首尔出动部队",
+    "parentFormation": "第9步兵师（白马）汉城出动部队",
     "parent": "第9步兵师（白马）",
     "offMap": true,
     "reinforcementGroup": "SEOUL_NM_9DIV_DET",
@@ -808,8 +808,8 @@
   },
   {
     "id": "GOV_BRIDGE_03",
-    "name": "首尔大桥守备分队",
-    "fullName": "首尔大桥守备分队",
+    "name": "汉城大桥守备分队",
+    "fullName": "汉城大桥守备分队",
     "faction": "rok_government",
     "type": "infantry",
     "q": 146,
@@ -836,7 +836,7 @@
     "parent": "首都桥梁警备部队",
     "serviceNation": "大韩民国",
     "bridgeGuard": true,
-    "bridgeName": "首尔大桥（今麻浦大桥）",
+    "bridgeName": "汉城大桥（今麻浦大桥）",
     "side": "rok_government"
   },
   {
@@ -1260,7 +1260,7 @@
     "reinforcementTurn": 11,
     "reinforcementGroup": "SEOUL_NM_1ABN",
     "reinforcementName": "第1空降特战旅行动部队",
-    "reinforcementDetail": "23:00历史事件窗口：第1空降特战旅主力分批进入首尔。",
+    "reinforcementDetail": "23:00历史事件窗口：第1空降特战旅主力分批进入汉城。",
     "entryPoint": {
       "q": 63,
       "r": 114
@@ -1301,7 +1301,7 @@
     "reinforcementTurn": 11,
     "reinforcementGroup": "SEOUL_NM_1ABN",
     "reinforcementName": "第1空降特战旅行动部队",
-    "reinforcementDetail": "23:00历史事件窗口：第1空降特战旅主力分批进入首尔。",
+    "reinforcementDetail": "23:00历史事件窗口：第1空降特战旅主力分批进入汉城。",
     "entryPoint": {
       "q": 63,
       "r": 114
@@ -1342,7 +1342,7 @@
     "reinforcementTurn": 11,
     "reinforcementGroup": "SEOUL_NM_1ABN",
     "reinforcementName": "第1空降特战旅行动部队",
-    "reinforcementDetail": "23:00历史事件窗口：第1空降特战旅主力分批进入首尔。",
+    "reinforcementDetail": "23:00历史事件窗口：第1空降特战旅主力分批进入汉城。",
     "entryPoint": {
       "q": 63,
       "r": 114
@@ -1752,7 +1752,7 @@
     "reinforcementTurn": 17,
     "reinforcementGroup": "SEOUL_NM_9DIV",
     "reinforcementName": "第9师第29联队抽调部队",
-    "reinforcementDetail": "历史上第29联队部队进入首尔；总兵力按战斗群抽象。",
+    "reinforcementDetail": "历史上第29联队部队进入汉城；总兵力按战斗群抽象。",
     "entryPoint": {
       "q": 105,
       "r": 54
@@ -1793,7 +1793,7 @@
     "reinforcementTurn": 17,
     "reinforcementGroup": "SEOUL_NM_9DIV",
     "reinforcementName": "第9师第29联队抽调部队",
-    "reinforcementDetail": "历史上第29联队部队进入首尔；总兵力按战斗群抽象。",
+    "reinforcementDetail": "历史上第29联队部队进入汉城；总兵力按战斗群抽象。",
     "entryPoint": {
       "q": 105,
       "r": 54
@@ -1834,7 +1834,7 @@
     "reinforcementTurn": 17,
     "reinforcementGroup": "SEOUL_NM_9DIV",
     "reinforcementName": "第9师第29联队抽调部队",
-    "reinforcementDetail": "历史上第29联队部队进入首尔；总兵力按战斗群抽象。",
+    "reinforcementDetail": "历史上第29联队部队进入汉城；总兵力按战斗群抽象。",
     "entryPoint": {
       "q": 105,
       "r": 54
@@ -1957,7 +1957,7 @@
     "reinforcementTurn": 19,
     "reinforcementGroup": "SEOUL_NM_20",
     "reinforcementName": "第20步兵师联络部队",
-    "reinforcementDetail": "反映师长参与政变指挥网络，不等同于全师进入首尔。",
+    "reinforcementDetail": "反映师长参与政变指挥网络，不等同于全师进入汉城。",
     "entryPoint": {
       "q": 126,
       "r": 69
@@ -2401,7 +2401,7 @@
     "reinforcementTurn": 9,
     "reinforcementGroup": "SEOUL_GOV_9ABN",
     "reinforcementName": "第9空降特战旅出动部队",
-    "reinforcementDetail": "约22时前后奉命向首尔方向机动；历史上随后接令回军。",
+    "reinforcementDetail": "约22时前后奉命向汉城方向机动；历史上随后接令回军。",
     "entryPoint": {
       "q": 291,
       "r": 170
@@ -2534,8 +2534,8 @@
   },
   {
     "id": "GOV_26DIV_HQ",
-    "name": "第26步兵师首尔方向机动队",
-    "fullName": "第26步兵师首尔方向机动队",
+    "name": "第26步兵师汉城方向机动队",
+    "fullName": "第26步兵师汉城方向机动队",
     "faction": "rok_government",
     "type": "headquarters",
     "q": 0,
@@ -2564,7 +2564,7 @@
     "offMap": true,
     "reinforcementTurn": 13,
     "reinforcementGroup": "SEOUL_GOV_26DIV",
-    "reinforcementName": "第26步兵师首尔方向机动队",
+    "reinforcementName": "第26步兵师汉城方向机动队",
     "reinforcementDetail": "正规指挥体系曾试图调用；历史上未能形成有效入城增援。",
     "entryPoint": {
       "q": 291,
@@ -2605,7 +2605,7 @@
     "offMap": true,
     "reinforcementTurn": 13,
     "reinforcementGroup": "SEOUL_GOV_26DIV",
-    "reinforcementName": "第26步兵师首尔方向机动队",
+    "reinforcementName": "第26步兵师汉城方向机动队",
     "reinforcementDetail": "游戏化的有限先遣力量，用于表现未能实现的正规军增援企图。",
     "entryPoint": {
       "q": 291,
